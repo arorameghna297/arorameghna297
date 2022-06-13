@@ -20,7 +20,7 @@
 
 - 😊Pronouns: **She/Her**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ meghna-arora-0b0894194](www.linkedin.com/in/ meghna-arora-0b0894194)
+- 📄 Know about my experiences (www.linkedin.com/in/ meghna-arora-0b0894194)
 
 - ⚡ Fun fact **Introverted extrovert**
 
