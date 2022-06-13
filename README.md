@@ -6,15 +6,19 @@
 
 - 🔭 I’m currently working on **Improving myself**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning about **Machine Learning and AI**
 
-- 👯 I’m looking to collaborate on **Project teams**
+- 👯 I’m looking to collaborate on **Development Projects**
 
 - 🤝 I’m looking for help with **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arorameghna297](https://github.com/arorameghna297)
 
 - 📫 How to reach me **arorameghna13@gmail.com**
+
+-  ✉🗨Ask me about **Anything**
+
+- 😊Pronouns: **She/Her**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ meghna-arora-0b0894194](www.linkedin.com/in/ meghna-arora-0b0894194)
 
