@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arorameghna297&label=Profile%20views&color=0e75b6&style=flat" alt="arorameghna297" /> </p>
 
 
-- 🔭 I’m currently working in Games24x7 as and SDET
+- 🔭 I’m currently working in Games24x7 as an SDET
 
 - 🌱 I’m currently learning about **Machine Learning and AI**
 
