@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arorameghna297&label=Profile%20views&color=0e75b6&style=flat" alt="arorameghna297" /> </p>
 
 
-- 🔭 I’m currently working on **Elevate - Your AlgoSkill Tracker**
+- 🔭 I’m currently working in Games24x7 as and SDET
 
 - 🌱 I’m currently learning about **Machine Learning and AI**
 
 - 👯 I’m looking to collaborate on **Development Projects**
 
-- 🤝 I’m looking for help with **MERN STACK**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/arorameghna297](https://github.com/arorameghna297)
 
